@@ -20,12 +20,13 @@ export interface RelatedProduct {
   id: string
   name: string
   price: number
-  image: string
+  imageUrl: string
   rating: number
 }
 
 export interface Product {
   id: string
+  brand: string;
   name: string
   price: number
   originalPrice?: number
