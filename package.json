@@ -10,11 +10,16 @@
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.13",
+    "@radix-ui/react-label": "^2.1.6",
+    "@radix-ui/react-radio-group": "^1.3.6",
     "@radix-ui/react-slot": "^1.2.2",
+    "@shadcn/ui": "^0.0.4",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "label": "^0.2.2",
     "lucide-react": "^0.510.0",
     "next": "15.3.2",
+    "radio-group": "^0.0.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "tailwind-merge": "^3.3.0"
